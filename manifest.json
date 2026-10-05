@@ -1,0 +1,28 @@
+{
+  "name": "HabitPulse — Tactical Habit Tracker",
+  "short_name": "HabitPulse",
+  "description": "Build Good Habits with 1 tap and gradually quit Bad Habits with a live clean timer.",
+  "start_url": "./index.php",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07090E",
+  "theme_color": "#07090E",
+  "dir": "ltr",
+  "lang": "en-US",
+  "categories": ["productivity", "health", "lifestyle"],
+  "icons": [
+    {
+      "src": "img/icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "img/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
